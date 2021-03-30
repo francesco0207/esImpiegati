@@ -1,0 +1,13 @@
+td,th {
+    border: 1px solid black ;
+    text-align: center;
+    padding: 15px;
+}
+
+td {
+    background-color: #b3d1ff;
+}
+
+th {
+    background-color: #66a3ff;
+}
